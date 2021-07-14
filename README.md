@@ -6,7 +6,7 @@ A vim ide install script, it support code highlight, automatic code completion f
 
 * Vim >= 8.1 (most features needed +python or +python3 support) 
 * golang >= 1.11
-* python >= 3.6
+* python >= 3.7
 
 This script will auto install all software. 
  
